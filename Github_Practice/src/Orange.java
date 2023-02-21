@@ -5,6 +5,12 @@ public class Orange {
 	Orange(String color)
 	{
 		this.color=color;
+		
+	}
+	
+	String getColor()
+	{
+	return color;
 	}
 	//New Code
 	String getColor()
