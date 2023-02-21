@@ -6,10 +6,10 @@ public class Orange {
 	{
 		this.color=color;
 	}
-	
+	//New Code
 	String getColor()
 	{
-	return color;
+		return color;
 	}
 public static void main(String[] args) {
 	
